@@ -26,28 +26,36 @@
 \headcommand {\beamer@framepages {26}{29}}
 \headcommand {\slideentry {2}{0}{8}{30/31}{}{0}}
 \headcommand {\beamer@framepages {30}{31}}
-\headcommand {\beamer@sectionpages {8}{31}}
-\headcommand {\beamer@subsectionpages {8}{31}}
-\headcommand {\sectionentry {3}{Advanced Programming Techniques}{32}{Advanced Programming Techniques}{0}}
-\headcommand {\slideentry {3}{0}{1}{32/35}{}{0}}
+\headcommand {\slideentry {2}{0}{9}{32/35}{}{0}}
 \headcommand {\beamer@framepages {32}{35}}
-\headcommand {\beamer@sectionpages {32}{35}}
-\headcommand {\beamer@subsectionpages {32}{35}}
-\headcommand {\sectionentry {4}{Project Structure and Code Quality}{36}{Project Structure and Code Quality}{0}}
-\headcommand {\slideentry {4}{0}{1}{36/36}{}{0}}
-\headcommand {\beamer@framepages {36}{36}}
-\headcommand {\beamer@sectionpages {36}{36}}
-\headcommand {\beamer@subsectionpages {36}{36}}
-\headcommand {\sectionentry {5}{Deployment Models}{37}{Deployment Models}{0}}
-\headcommand {\slideentry {5}{0}{1}{37/37}{}{0}}
-\headcommand {\beamer@framepages {37}{37}}
-\headcommand {\beamer@sectionpages {37}{37}}
-\headcommand {\beamer@subsectionpages {37}{37}}
-\headcommand {\sectionentry {6}{Conclusion}{38}{Conclusion}{0}}
-\headcommand {\slideentry {6}{0}{1}{38/38}{}{0}}
-\headcommand {\beamer@framepages {38}{38}}
-\headcommand {\beamer@partpages {1}{38}}
-\headcommand {\beamer@subsectionpages {38}{38}}
-\headcommand {\beamer@sectionpages {38}{38}}
-\headcommand {\beamer@documentpages {38}}
-\headcommand {\gdef \inserttotalframenumber {15}}
+\headcommand {\slideentry {2}{0}{10}{36/40}{}{0}}
+\headcommand {\beamer@framepages {36}{40}}
+\headcommand {\slideentry {2}{0}{11}{41/44}{}{0}}
+\headcommand {\beamer@framepages {41}{44}}
+\headcommand {\slideentry {2}{0}{12}{45/45}{}{0}}
+\headcommand {\beamer@framepages {45}{45}}
+\headcommand {\beamer@sectionpages {8}{45}}
+\headcommand {\beamer@subsectionpages {8}{45}}
+\headcommand {\sectionentry {3}{Advanced Programming Techniques}{46}{Advanced Programming Techniques}{0}}
+\headcommand {\slideentry {3}{0}{1}{46/49}{}{0}}
+\headcommand {\beamer@framepages {46}{49}}
+\headcommand {\beamer@sectionpages {46}{49}}
+\headcommand {\beamer@subsectionpages {46}{49}}
+\headcommand {\sectionentry {4}{Project Structure and Code Quality}{50}{Project Structure and Code Quality}{0}}
+\headcommand {\slideentry {4}{0}{1}{50/50}{}{0}}
+\headcommand {\beamer@framepages {50}{50}}
+\headcommand {\beamer@sectionpages {50}{50}}
+\headcommand {\beamer@subsectionpages {50}{50}}
+\headcommand {\sectionentry {5}{Deployment Models}{51}{Deployment Models}{0}}
+\headcommand {\slideentry {5}{0}{1}{51/51}{}{0}}
+\headcommand {\beamer@framepages {51}{51}}
+\headcommand {\beamer@sectionpages {51}{51}}
+\headcommand {\beamer@subsectionpages {51}{51}}
+\headcommand {\sectionentry {6}{Conclusion}{52}{Conclusion}{0}}
+\headcommand {\slideentry {6}{0}{1}{52/52}{}{0}}
+\headcommand {\beamer@framepages {52}{52}}
+\headcommand {\beamer@partpages {1}{52}}
+\headcommand {\beamer@subsectionpages {52}{52}}
+\headcommand {\beamer@sectionpages {52}{52}}
+\headcommand {\beamer@documentpages {52}}
+\headcommand {\gdef \inserttotalframenumber {19}}
